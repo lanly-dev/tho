@@ -1,0 +1,11 @@
+ngoài lề mười số fibonacci đầu tiên
+trước là không
+sau là một
+đếm là một
+chừng nào đếm không lớn hơn mười
+  thì thầm trước
+  giữa là cộng trước với sau
+  từ nay trước là sau
+  từ nay sau là giữa
+  từ nay đếm là cộng đếm với một
+thế thôi

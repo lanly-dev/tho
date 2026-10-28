@@ -1,0 +1,18 @@
+ngoài lề fizzbuzz, đếm như một bài thơ
+số là một
+chừng nào số không lớn hơn hai mươi
+  nếu số chia hết cho mười lăm
+    thì thầm lời FizzBuzz
+  không thì
+    nếu số chia hết cho ba
+      thì thầm lời Fizz
+    không thì
+      nếu số chia hết cho năm
+        thì thầm lời Buzz
+      không thì
+        thì thầm số
+      thế thôi
+    thế thôi
+  thế thôi
+  từ nay số là cộng số với một
+thế thôi

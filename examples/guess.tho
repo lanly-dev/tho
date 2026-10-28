@@ -1,0 +1,17 @@
+ngoài lề đoán một con số từ một đến một trăm
+mã là ngẫu nhiên từ một đến một trăm
+đoán là không
+thì thầm lời tôi đang nghĩ một con số từ một đến một trăm
+chừng nào đoán bằng không
+  tuổi là lắng nghe
+  nếu tuổi nhỏ hơn mã
+    thì thầm lời con số của tôi lớn hơn thế
+  không thì
+    nếu tuổi lớn hơn mã
+      thì thầm lời con số của tôi nhỏ hơn thế
+    không thì
+      thì thầm lời đúng rồi
+      từ nay đoán là một
+    thế thôi
+  thế thôi
+thế thôi
